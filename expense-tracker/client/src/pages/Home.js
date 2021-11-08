@@ -27,7 +27,7 @@ const Home = () => {
                       to="/profile"
                       className="btn btn-primary me-2 mb-2 mb-sm-0"
                     >
-                      T
+                      
                     </Link>
                     <a
                      
